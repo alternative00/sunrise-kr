@@ -531,7 +531,7 @@ msgstr "reskeet'd your skeet"
 
 #: pages/notifications/index.tsx
 msgid "mentioned you"
-msgstr "당신을 멘션함"
+msgstr "당신을 언급연함"
 
 #: pages/notifications/index.tsx
 msgid "quoted your skeet"
