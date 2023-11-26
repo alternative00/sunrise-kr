@@ -14,372 +14,372 @@ msgstr ""
 "Plural-Forms: \n"
 
 #: components/Compose.tsx
-#~ msgid "복사 붙여넣기 또는 데스크톱에서 파일 불러오기"
+#~ msgid "Drag, paste or browse files"
 #~ msgstr "복사 붙여넣기 또는 데스크톱에서 파일 불러오기"
 
 #: components/Compose.tsx
-msgid "연 날림!"
+msgid "Posted!"
 msgstr "연 날림!"
 
 #: components/Compose.tsx
-msgid "답연을 날렸습니다!"
+msgid "Your reply has been posted!"
 msgstr "답연을 날렸습니다!"
 
 #: components/Compose.tsx
-msgid "연을 날렸습니다!"
+msgid "Your post has been posted!"
 msgstr "연을 날렸습니다!"
 
 #: components/Compose.tsx
-msgid "에러"
+msgid "Error"
 msgstr "에러"
 
 #: components/Compose.tsx
-msgid "답연을 입력하세요"
+msgid "Type your reply"
 msgstr "답연을 입력하세요"
 
 #: components/Compose.tsx
-msgid "무슨 일이 일어나고있나요?"
+msgid "What's going on?"
 msgstr "무슨 일이 일어나고있나요?"
 
 #: components/Compose.tsx
-msgid "연 날리는중, 잠시만 기다려주세요..."
+msgid "Posting, please wait..."
 msgstr "연 날리는중, 잠시만 기다려주세요..."
 
 #: components/Compose.tsx
-msgid "답연"
+msgid "Reply"
 msgstr "답연"
 
 #: components/Compose.tsx
 #: components/PostActions.tsx
-msgid "연"
+msgid "Skeet"
 msgstr "연"
 
 #: components/Compose.tsx
-msgid "이곳에 파일을 업로드하세요..."
+msgid "Drop the files here ..."
 msgstr "이곳에 파일을 업로드하세요..."
 
 #: components/Compose.tsx
-msgid "이미지를 드래그하거나 파일을 업로드 하세요"
+msgid "Drag 'n' drop some files here, or click to select files"
 msgstr "이미지를 드래그하거나 파일을 업로드 하세요"
 
 #: components/Compose.tsx
-msgid "수정"
+msgid "Edit"
 msgstr "수정"
 
 #: components/Compose.tsx
-msgid "이미지 변경"
+msgid "Edit image"
 msgstr "이미지 변경"
 
 #: components/Compose.tsx
-msgid "이미지 대체 텍스트"
+msgid "Image alt / description"
 msgstr "이미지 대체 텍스트"
 
 #: components/Compose.tsx
-msgid "저장"
+msgid "Save"
 msgstr "저장"
 
 #: components/Connections.tsx
 #: pages/u/[handle]/followers.tsx
 #: pages/u/[handle]/following.tsx
-msgid "팔로잉"
+msgid "Following"
 msgstr "팔로잉"
 
 #: components/Connections.tsx
 #: pages/u/[handle]/followers.tsx
 #: pages/u/[handle]/following.tsx
-msgid "팔로워"
+msgid "Followers"
 msgstr "팔로워"
 
 #: components/EditProfile.tsx
 #: components/Menu/Profile.tsx
 #: components/Spotlight.tsx
-msgid "프로필"
+msgid "Profile"
 msgstr "프로필"
 
 #: components/EditProfile.tsx
-msgid "프로필 업데이트를 완료하였습니다"
+msgid "Successfully updated profile"
 msgstr "프로필 업데이트를 완료하였습니다"
 
 #: components/EditProfile.tsx
 #: components/EditProfile.tsx
-msgid "프로필 수정"
+msgid "Edit profile"
 msgstr "프로필 수정"
 
 #: components/EditProfile.tsx
-msgid "프로필 사진"
+msgid "Avatar"
 msgstr "프로필 사진"
 
 #: components/EditProfile.tsx
-msgid "표시 이름"
+msgid "Display name"
 msgstr "표시 이름"
 
 #: components/EditProfile.tsx
-msgid "설명"
+msgid "Bio"
 msgstr "설명"
 
 #: components/EditProfile.tsx
-msgid "업데이트"
+msgid "Update"
 msgstr "업데이트"
 
 #: components/Embed/MediaWithThread.tsx
-msgid "민감한 콘텐츠. 민감한 콘텐츠를 표시하려면 아래 버튼을 클릭하세요."
+msgid "NSFW content. If you want to see the content click the button below."
 msgstr "민감한 콘텐츠. 민감한 콘텐츠를 표시하려면 아래 버튼을 클릭하세요."
 
 #: components/Follow.tsx
 #: pages/feeds/popular.tsx
-msgid "언팔로우"
+msgid "Unfollow"
 msgstr "언팔로우"
 
 #: components/Follow.tsx
 #: pages/feeds/popular.tsx
-msgid "팔로우"
+msgid "Follow"
 msgstr "팔로우"
 
 #: components/FollowsYou.tsx
-msgid "당신을 팔로우합니다"
+msgid "Follows You"
 msgstr "당신을 팔로우합니다"
 
 #: components/GlobalCompose.tsx
-msgid "연 공유하기"
+msgid "Share a skeet"
 msgstr "연 공유하기"
 
 #: components/InviteCodes.tsx
-msgid "현재 가능한 초대코드가 {0} 입니다"
+msgid "You have {0} invite codes available"
 msgstr "현재 가능한 초대코드가 {0} 입니다"
 
 #: components/InviteCodes.tsx
-msgid "초대 코드"
+msgid "Invite codes"
 msgstr "초대 코드"
 
 #: components/InviteCodes.tsx
 #: components/Share.tsx
-msgid "완료"
+msgid "Success"
 msgstr "완료"
 
 #: components/InviteCodes.tsx
-msgid "초대코드를 클립보드에 복사했습니다"
+msgid "Code copied to clipboard"
 msgstr "초대코드를 클립보드에 복사했습니다"
 
 #: components/InviteCodes.tsx
-msgid "초대코드 복사"
+msgid "Copy code"
 msgstr "초대코드 복사"
 
 #: components/InviteCodes.tsx
-msgid "현재 가능한 초대코드가 없습니다"
+msgid "You don't have any invite codes available"
 msgstr "현재 가능한 초대코드가 없습니다"
 
 #: components/Language.tsx
-msgid "언어/Language"
+msgid "Language"
 msgstr "언어/Language"
 
 #: components/Language.tsx
-msgid "번역에 도움을 주고 싶다면 다음으로 연락부탁드립니다."
+msgid "If you would like to help with translations please reach out to"
 msgstr "번역에 도움을 주고 싶다면 다음으로 연락부탁드립니다."
 
 #: components/LikesModal.tsx
 #: components/LikesModal.tsx
-msgid "좋아요"
+msgid "likes"
 msgstr "좋아요"
 
 #: components/LoggedInAccounts.tsx
-msgid "계정 로그인"
+msgid "Logged in accounts"
 msgstr "계정 로그인"
 
 #: components/LoggedInAccounts.tsx
-msgid "로그인"
+msgid "Logged in"
 msgstr "로그인"
 
 #: components/MentionList.tsx
-msgid "결과 없음"
+msgid "No result"
 msgstr "결과 없음"
 
 #: components/Menu/Notifications.tsx
 #: components/Spotlight.tsx
 #: pages/notifications/index.tsx
 #: pages/notifications/index.tsx
-msgid "알림"
+msgid "Notifications"
 msgstr "알림"
 
 #: components/Moderations.tsx
-msgid "모더레이션"
+msgid "Moderation"
 msgstr "모더레이션"
 
 #: components/Moderations.tsx
 #: pages/settings/moderation/filtering.tsx
 #: pages/settings/moderation/filtering.tsx
-msgid "콘텐츠 필터링"
+msgid "Content filtering"
 msgstr "콘텐츠 필터링"
 
 #: components/Moderations.tsx
 #: pages/settings/moderation/languages.tsx
-msgid "콘텐츠 언어"
+msgid "Content languages"
 msgstr "콘텐츠 언어"
 
 #: components/Moderations.tsx
 #: pages/settings/passwords/index.tsx
-msgid "앱 패스워드"
+msgid "App passwords"
 msgstr "앱 패스워드"
 
 #: components/Moderations.tsx
 #: pages/settings/moderation/muted.tsx
-msgid "계정 뮤트하기"
+msgid "Muted accounts"
 msgstr "계정 뮤트하기"
 
 #: components/Moderations.tsx
 #: pages/settings/moderation/blocked.tsx
-msgid "계정 차단하기"
+msgid "Blocked accounts"
 msgstr "계정 차단하기"
 
 #: components/OpenAI.tsx
-msgid "여러분의 OpenAI key를 입력하세요. '⌘ + Enter'로 제출"
+msgid "Type your OpenAI key. ⌘ + Enter to submit"
 msgstr "여러분의 OpenAI key를 입력하세요. '⌘ + Enter'로 제출"
 
 #: components/OpenAI.tsx
-msgid "OpenAI 불러오는 중, 잠시만 기다려주세요..."
+msgid "Waiting for OpenAI, hang tight..."
 msgstr "OpenAI 불러오는 중, 잠시만 기다려주세요..."
 
 #: components/OpenAI.tsx
-msgid "OpenAI에게 원하는 것을 요청하세요! '⌘ + Enter'로 제출"
+msgid "Ask OpenAI whatever you want! ⌘ + Enter to submit"
 msgstr "OpenAI에게 원하는 것을 요청하세요! '⌘ + Enter'로 제출"
 
 #: components/OpenAI.tsx
-msgid "더 알아보기"
+msgid "Learn more"
 msgstr "더 알아보기"
 
 #: components/OpenAI.tsx
-msgid "Sunrise에 내 Open AI키를 입력해도 안전한가요?"
+msgid "It's secure to put my OpenAI key on Sunrise?"
 msgstr "Sunrise에 내 Open AI키를 입력해도 안전한가요?"
 
 #: components/OpenAI.tsx
-msgid "우리는 키를 자체적으로 보관하지 않습니다, 로컬 스토리지를 사용하여 키를 저장합니다. 이는 브라우저를 절대 떠나지 않는다는 것을 의미합니다. 즉, 다른 브라우저나 컴퓨터에서 로그인하면 키를 다시 저장해야 합니다. 안전합니다!"
+msgid "We don't store your key ourselves, we use local storage to save your key, which means it never leaves your browser. This means if you login from a different browser or computer you'll need to save your key again. It's safe."
 msgstr "우리는 키를 자체적으로 보관하지 않습니다, 로컬 스토리지를 사용하여 키를 저장합니다. 이는 브라우저를 절대 떠나지 않는다는 것을 의미합니다. 즉, 다른 브라우저나 컴퓨터에서 로그인하면 키를 다시 저장해야 합니다. 안전합니다!"
 
 #: components/OpenAI.tsx
-msgid "알겠습니다"
+msgid "Got it"
 msgstr "알겠습니다"
 
 #: components/Post.tsx
-msgid "에 의해 답연되었습니다"
+msgid "Reskeet'd by"
 msgstr "에 의해 답연되었습니다"
 
 #: components/Post.tsx
-msgid "에게 답연하다"
+msgid "Replying to"
 msgstr "에게 답연하다"
 
 #: components/PostActions.tsx
-#~ msgid "연"
+#~ msgid "Post"
 #~ msgstr "연"
 
 #: components/PostActions.tsx
-#~ msgid "연을 성공적으로 감았습니다"
+#~ msgid "Successfully deleted post"
 #~ msgstr "연을 성공적으로 감았습니다"
 
 #: components/PostActions.tsx
-msgid "연을 성공적으로 감았습니다"
+msgid "Successfully deleted skeet"
 msgstr "연을 성공적으로 감았습니다"
 
 #: components/PostActions.tsx
-msgid "연 감기"
+msgid "Delete skeet"
 msgstr "연 감기"
 
 #: components/PostActions.tsx
-msgid "확실한가요?"
+msgid "Are you sure absolutely sure?"
 msgstr "확실한가요?"
 
 #: components/PostActions.tsx
-msgid "이것은 돌이킬 수 없습니다. 바로 당신의 연을 감습니다."
+msgid "This action cannot be undone. This will permanently delete your post."
 msgstr "이것은 돌이킬 수 없습니다. 바로 당신의 연을 감습니다."
 
 #: components/PostActions.tsx
-msgid "취소"
+msgid "Cancel"
 msgstr "취소"
 
 #: components/PostActions.tsx
-msgid "계속"
+msgid "Continue"
 msgstr "계속"
 
 #: components/ProfileHeader.tsx
-msgid "뮤트 됨, 어떤 연도 보이지 않게됩니다"
+msgid "is muted, you won't see any posts"
 msgstr "뮤트 됨, 어떤 연도 보이지 않게됩니다"
 
 #: components/ProfileHeader.tsx
-msgid "차단 됨, 당신의 연을 볼 수 없게 됩니다"
+msgid "is blocked, they'll not be able to see your posts"
 msgstr "차단 됨, 당신의 연을 볼 수 없게 됩니다"
 
 #: components/ProfileHeader.tsx
-msgid "연"
+msgid "Skeets"
 msgstr "연"
 
 #: components/ProfileHeader.tsx
-msgid "답연"
+msgid "Replies"
 msgstr "답연"
 
 #: components/ProfileHeader.tsx
-msgid "좋아요"
+msgid "Likes"
 msgstr "좋아요"
 
 #: components/ProfileHeader.tsx
-msgid "미디어"
+msgid "Media"
 msgstr "미디어"
 
 #: components/ProfileHeader.tsx
-msgid "리스트"
+msgid "Lists"
 msgstr "리스트"
 
 #: components/Repost.tsx
-#~ msgid "인용연"
+#~ msgid "Reskeet with quote"
 #~ msgstr "인용연"
 
 #: components/Repost.tsx
 #: components/Repost.tsx
 #: components/Repost.tsx
-msgid "겹연"
+msgid "Reskeet"
 msgstr "겹연"
 
 #: components/Repost.tsx
-msgid "인용연"
+msgid "Quote"
 msgstr "인용연"
 
 #: components/Repost.tsx
-msgid "겹연 완료"
+msgid "Successfully reskeeted"
 msgstr "겹연 완료"
 
 #: components/RepostsModal.tsx
 #: components/RepostsModal.tsx
-msgid "겹연"
+msgid "reskeets"
 msgstr "겹연"
 
 #: components/Share.tsx
-#~ msgid "공유"
+#~ msgid "Share"
 #~ msgstr "공유"
 
 #: components/Share.tsx
-msgid "URL이 클립보드에 복사되었습니다"
+msgid "URL copied to clipboard"
 msgstr "URL이 클립보드에 복사되었습니다"
 
 #: components/Share.tsx
-msgid "연을 붙여넣기위해 bsky.app 주소가 복사될 것입니다"
+msgid "A bsky.app URL will be copied in order to embed the post"
 msgstr "연을 붙여넣기위해 bsky.app 주소가 복사될 것입니다"
 
 #: components/Spotlight.tsx
 #: containers/Layout.tsx
 #: pages/index.tsx
 #: pages/index.tsx
-msgid "홈"
+msgid "Home"
 msgstr "홈"
 
 #: components/Spotlight.tsx
 #: pages/hot/index.tsx
 #: pages/hot/index.tsx
-msgid "뜨는 중"
+msgid "Hot"
 msgstr "뜨는 중"
 
 #: components/Spotlight.tsx
-msgid "글로벌 Command Menu"
+msgid "Global Command Menu"
 msgstr "글로벌 Command Menu"
 
 #: components/Spotlight.tsx
-msgid "찾는 것이 있습니까?"
+msgid "What are you looking for?"
 msgstr "찾는 것이 있습니까?"
 
 #: components/Spotlight.tsx
@@ -387,142 +387,142 @@ msgid "to navigate"
 msgstr "to navigate"
 
 #: components/Spotlight.tsx
-msgid "선택하다"
+msgid "to select"
 msgstr "선택하다"
 
 #: components/Spotlight.tsx
-msgid "발견된 것이 없습니다!"
+msgid "Nothing found!"
 msgstr "발견된 것이 없습니다!"
 
 #: components/Spotlight.tsx
-msgid "네비게이션"
+msgid "Navigation"
 msgstr "네비게이션"
 
 #: components/Spotlight.tsx
-msgid "시스템"
+msgid "System"
 msgstr "시스템"
 
 #: components/Spotlight.tsx
 #: components/Spotlight.tsx
-msgid "테마 변경"
+msgid "Change theme"
 msgstr "테마 변경"
 
 #: components/Spotlight.tsx
-msgid "현재"
+msgid "current"
 msgstr "현재"
 
 #: components/Spotlight.tsx
 #: containers/Layout.tsx
-msgid "로그아웃"
+msgid "Logout"
 msgstr "로그아웃"
 
 #: components/Theme.tsx
-msgid "테마"
+msgid "Theme"
 msgstr "테마"
 
 #: components/UserActions.tsx
 #: components/UserActions.tsx
 #: pages/settings/moderation/muted.tsx
-msgid "언뮤트"
+msgid "Unmute"
 msgstr "언뮤트"
 
 #: components/UserActions.tsx
 #: components/UserActions.tsx
-msgid "뮤트"
+msgid "Mute"
 msgstr "뮤트"
 
 #: components/UserActions.tsx
 #: pages/settings/moderation/muted.tsx
-msgid "@{handle} 언뮤트 완료"
+msgid "Successfully unmuted @{handle}"
 msgstr " @{handle} 언뮤트 완료"
 
 #: components/UserActions.tsx
-msgid " @{handle} 뮤트 완료"
+msgid "Successfully muted @{handle}"
 msgstr "@{handle} 뮤트 완료"
 
 #: components/UserActions.tsx
 #: components/UserActions.tsx
 #: pages/settings/moderation/blocked.tsx
-msgid "차단 해제"
+msgid "Unblock"
 msgstr "차단 해제"
 
 #: components/UserActions.tsx
 #: components/UserActions.tsx
-msgid "차단"
+msgid "Block"
 msgstr "차단"
 
 #: components/UserActions.tsx
 #: pages/settings/moderation/blocked.tsx
-msgid "@{handle} 차단 해제"
+msgid "Successfully unblocked @{handle}"
 msgstr "@{handle} 차단 해제"
 
 #: components/UserActions.tsx
-msgid "@{handle} 차단 "
+msgid "Successfully blocked @{handle}"
 msgstr "@{handle} 차단"
 
 #: components/WhoToFollow.tsx
 #: pages/suggestions/index.tsx
-msgid "추천 팔로우"
+msgid "Who to follow"
 msgstr "추천 팔로우"
 
 #: components/WhoToFollow.tsx
-msgid "더보기"
+msgid "See more"
 msgstr "더보기"
 
 #: containers/Layout.tsx
-msgid "지금 뜨는"
+msgid "What's Hot"
 msgstr "지금 뜨는"
 
 #: containers/Layout.tsx
 #: pages/search/index.tsx
-msgid "검색"
+msgid "Search"
 msgstr "검색"
 
 #: containers/Layout.tsx
 #: pages/feeds/popular.tsx
 #: pages/feeds/popular.tsx
-msgid "Popular 피드"
+msgid "Popular Feeds"
 msgstr "Popular 피드"
 
 #: containers/Layout.tsx
 #: pages/settings/index.tsx
-msgid "설정"
+msgid "Settings"
 msgstr "설정"
 
 #: containers/Layout.tsx
-msgid "라이트 테마"
+msgid "Light theme"
 msgstr "라이트 테마"
 
 #: containers/Layout.tsx
-msgid "다크 테마"
+msgid "Dark theme"
 msgstr "다크 테마"
 
 #: containers/Layout.tsx
-msgid "시스템 테마"
+msgid "System theme"
 msgstr "시스템 테마"
 
 #: containers/Layout.tsx
-msgid "피드백 날리기"
+msgid "Send feedback"
 msgstr "피드백 날리기"
 
 #: pages/_app.tsx
-msgid "이런! 뭔가 잘못되었습니다"
+msgid "Uh oh! Something went wrong"
 msgstr "이런! 뭔가 잘못되었습니다"
 
 #: pages/_app.tsx
-msgid "AT API를 불러오는데 문제가 생겼습니다, 계속 시도중이니 기다려주세요!"
+msgid "We're having some trouble connection with the AT API, we'll keep trying, hang tight!"
 msgstr "AT API를 불러오는데 문제가 생겼습니다, 계속 시도중이니 기다려주세요!"
 
 #: pages/notifications/index.tsx
-msgid "당신의 연을 좋아합니다"
+msgid "liked your skeet"
 msgstr "당신의 연을 좋아합니다"
 
 #: pages/notifications/index.tsx
-msgid "당신을 팔로우했습니다"
+msgid "followed you"
 msgstr "당신을 팔로우했습니다"
 
 #: pages/notifications/index.tsx
-msgid "당신의 연에 답연했습니다"
+msgid "replied to your skeet"
 msgstr "당신의 연에 답연했습니다"
 
 #: pages/notifications/index.tsx
@@ -530,146 +530,147 @@ msgid "reskeet'd your skeet"
 msgstr "reskeet'd your skeet"
 
 #: pages/notifications/index.tsx
-msgid "당신을 멘션함"
+msgid "mentioned you"
 msgstr "당신을 멘션함"
 
 #: pages/notifications/index.tsx
-msgid "당신의 연을 인용연함"
+msgid "quoted your skeet"
 msgstr "당신의 연을 인용연함"
 
 #: pages/settings/moderation/blocked.tsx
-msgid "아직 어떠한 계정도 차단하지 않았습니다. 차단하려면, 상대방의 프로필 메뉴에서 \"Block\" 를 선택하세요."
+msgid "You have not blocked any accounts yet. To block an account, go to their profile and selected \"Block\" from the menu on their account."
 msgstr "아직 어떠한 계정도 차단하지 않았습니다. 차단하려면, 상대방의 프로필 메뉴에서 \"Block\" 를 선택하세요."
 
 #: pages/settings/moderation/filtering.tsx
-msgid "노골적인 성적 이미지"
+msgid "Explicit Sexual Images"
 msgstr "노골적인 성적 이미지"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "i.e. 음란물"
-msgstr "i.e. 음란물
+msgid "i.e. Pornography"
+msgstr "i.e. 음란물"
+
 #: pages/settings/moderation/filtering.tsx
-msgid "다른 누드 이미지"
+msgid "Other Nudity"
 msgstr "다른 누드 이미지"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "성적이고 예술적이지 않은 것을 포함합니다"
+msgid "Including non-sexual and artistic"
 msgstr "성적이고 예술적이지 않은 것을 포함합니다"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "성적인 것 추천"
+msgid "Sexually Suggestive"
 msgstr "성적인 것 추천"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "누드 제외하기"
+msgid "Does not include nudity"
 msgstr "누드 제외하기"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "폭력적/잔인한"
+msgid "Violent / Bloody"
 msgstr "폭력적/잔인한"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "고어, 자해, 고문"
+msgid "Gore, self-harm, torture"
 msgstr "고어, 자해, 고문"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "정치혐오성"
+msgid "Political Hate-Groups"
 msgstr "정치혐오성"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "스팸"
+msgid "Spam"
 msgstr "스팸"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "원치 않았던 과도한 상호작용"
+msgid "Excessive unwanted interactions"
 msgstr "원치 않았던 과도한 상호작용"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "사칭"
+msgid "Impersonation"
 msgstr "사칭"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "신고당한 계정"
+msgid "Accounts falsely claiming to be people or orgs"
 msgstr "신고당한 계정"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "기본설정"
+msgid "Preferences"
 msgstr "기본설정"
 
 #: pages/settings/moderation/filtering.tsx
-msgid "변경 \"{0}\" to \"{value}\""
+msgid "Changed \"{0}\" to \"{value}\""
 msgstr "변경 \"{0}\" to \"{value}\""
 
 #: pages/settings/moderation/muted.tsx
-msgid "아직 어떠한 계정도 뮤트하지 않았습니다. 뮤트하려면, 상대방의 프로필 메뉴에서 \"Mute\" 를 선택하세요. "
+msgid "You have not muted any accounts yet. To mute an account, go to their profile and selected \"Mute\" from the menu on their account."
 msgstr "아아직 어떠한 계정도 뮤트하지 않았습니다. 뮤트하려면, 상대방의 프로필 메뉴에서 \"Mute\" 를 선택하세요."
 
 #: pages/settings/passwords/index.tsx
-msgid "아직 어떠한 앱 패스워드도 생성하지 않았습니다. 비밀번호를 공유하지 않고 타사 응용프로그램에 안전하게 로그인할 수 있도록 하나를 만듭니다."
+msgid "You have not created any app passwords. Create one to safely login into any third party application without sharing your password."
 msgstr "아직 어떠한 앱 패스워드도 생성하지 않았습니다. 비밀번호를 공유하지 않고 타사 응용프로그램에 안전하게 로그인할 수 있도록 하나를 만듭니다."
 
 #: pages/u/[handle]/feed/[name].tsx
-msgid "존재하지 않습니다,"
+msgid "Nothing to see here,"
 msgstr "존재하지 않습니다,"
 
 #: pages/u/[handle]/feed/[name].tsx
-msgid "다른 피드로 시도해보세요."
+msgid "try a different feed."
 msgstr "다른 피드로 시도해보세요."
 
 #: pages/u/[handle]/index.tsx
 #: pages/u/[handle]/replies.tsx
-#~ msgid "아직 연을 날리지 않았습니다"
+#~ msgid "No skeets yet"
 #~ msgstr "아직 연을 날리지 않았습니다"
 
 #: pages/u/[handle]/index.tsx
-#~ msgid "@{0} 은/는 날린 연이 없습니다."
+#~ msgid "@{0} haven't posted any skeets yet"
 #~ msgstr "@{0} 은/는 날린 연이 없습니다."
 
 #: pages/u/[handle]/index.tsx
-msgid "아무것도 보이지 읺음. @{0} 이/가 연을 공유하면 볼 수 있습니다."
+msgid "Nothing to see here yet. When @{0} shares a skeet you'll see it here."
 msgstr "아무것도 보이지 읺음. @{0} 이/가 연을 공유하면 볼 수 있습니다."
 
 #: pages/u/[handle]/likes.tsx
-#~ msgid "아직 좋아요가 없습니다"
+#~ msgid "No likes yet"
 #~ msgstr "아직 좋아요가 없습니다"
 
 #: pages/u/[handle]/likes.tsx
-#~ msgid "@{0} 이/가 아직 좋아요를 누르지 않았습니다"
+#~ msgid "@{0} haven't liked any skeets yet"
 #~ msgstr "@{0} 이/가 아직 좋아요를 누르지 않았습니다"
 
 #: pages/u/[handle]/likes.tsx
-msgid "아무것도 보이지 읺음. @{0} 이/가 연을 좋아요하면 볼 수 있습니다."
+msgid "Nothing to see here yet. When @{0} likes a skeet you'll see it here."
 msgstr "아무것도 보이지 읺음. @{0} 이/가 연을 좋아요하면 볼 수 있습니다."
 
 #: pages/u/[handle]/lists/index.tsx
-#~ msgid "@{0} 이/가 아직 리스트를 생성하지 않았습니다"
+#~ msgid "@{0} haven't created any lists yet"
 #~ msgstr "@{0} 이/가 아직 리스트를 생성하지 않았습니다"
 
 #: pages/u/[handle]/lists/index.tsx
-msgid "아무것도 보이지 읺음. @{0} 이/가 리스트를 생성하면 볼 수 있습니다."
+msgid "Nothing to see here yet. When @{0} creates a list you'll see it here."
 msgstr "아무것도 보이지 읺음. @{0} 이/가 리스트를 생성하면 볼 수 있습니다."
 
 #: pages/u/[handle]/media.tsx
-#~ msgid "발견된 미디어 없음"
+#~ msgid "No media found"
 #~ msgstr "발견된 미디어 없음"
 
 #: pages/u/[handle]/media.tsx
-#~ msgid "@{0} 이/가 아직 그림연을 날리지 않았습니다"
+#~ msgid "@{0} haven't skeet'd any images yet"
 #~ msgstr "@{0} 이/가 아직 그림연을 날리지 않았습니다"
 
 #: pages/u/[handle]/media.tsx
-msgid "아무것도 보이지 읺음. @{0} 이/가 그림연을 날리면 볼 수 있습니다."
+msgid "Nothing to see here yet. When @{0} skeets a picture you'll see it here."
 msgstr "아무것도 보이지 읺음. @{0} 이/가 그림연을 날리면 볼 수 있습니다."
 
 #: pages/u/[handle]/replies.tsx
-#~ msgid "@{0} 이/가 아직 답연을 날리지 않았습니다"
+#~ msgid "@{0} haven't replied to any skeets yet"
 #~ msgstr "@{0} 이/가 아직 답연을 날리지 않았습니다"
 
 #: pages/u/[handle]/replies.tsx
-msgid "아무것도 보이지 읺음. @{0} 이/가 답연을 날리면 볼 수 있습니다."
+msgid "Nothing to see here yet. When @{0} replies to a skeet you'll see it here."
 msgstr "아무것도 보이지 읺음. @{0} 이/가 답연을 날리면 볼 수 있습니다."
 
 #: pages/u/[handle]/skeet/[id].tsx
 #: pages/u/[handle]/skeet/[id].tsx
-msgid "타래"
+msgid "Thread"
 msgstr "타래"
