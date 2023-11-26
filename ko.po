@@ -527,7 +527,7 @@ msgstr "당신의 연에 답연했습니다"
 
 #: pages/notifications/index.tsx
 msgid "reskeet'd your skeet"
-msgstr "reskeet'd your skeet"
+msgstr "당신의 연을 겹연함"
 
 #: pages/notifications/index.tsx
 msgid "mentioned you"
